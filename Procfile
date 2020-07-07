@@ -1,1 +1,1 @@
-web: gunicorn -log
+web: gunicorn djangoHeroku.wgsi
